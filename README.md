@@ -1,23 +1,50 @@
-# Hi, I'm Nacho 👋
+<h1 align="center">Nacho Pola</h1>
+<p align="center">
+  Telecommunications engineering student · networks & security · self-hosted everything · basketball coach<br>
+  <a href="https://nacho.polacabezon.com">Portfolio</a> ·
+  <a href="https://linkedin.com/in/nacho-pola-304686304">LinkedIn</a>
+</p>
 
-Telecommunications engineering student at the University of Zaragoza (4th year), with a focus on
-cybersecurity. I build small, useful tools and run my own home lab (Proxmox, a SOC with Wazuh, network
-monitoring) to learn how things work by operating them.
+## 🇬🇧 About me
 
-## What I'm building
+I'm in my 4th year of the Telecommunications Engineering degree (Telematics) at the University of Zaragoza
+(EINA), focused on networking and security. I like understanding systems by running them: at home I operate
+a Proxmox server with a Wazuh SOC, SNMP network monitoring and a set of self-hosted services. Off the
+keyboard, I coach youth basketball teams, which is where most of my project ideas come from.
 
-- **[Aldune](https://github.com/NachoPola16/aldune)** — sticky notes on the edge of your screen for
-  Windows and Android, with end-to-end encrypted optional sync. C# / Kotlin.
-- **[MiPizarra](https://github.com/NachoPola16/mipizarra)** — a basketball coaching assistant that runs
-  on a fully local LLM (Ollama + RAG + deterministic SVG diagrams). Python / FastAPI / Django.
+### Projects
 
-## What I work with
+| | |
+|---|---|
+| **[Aldune](https://github.com/NachoPola16/aldune)** | Sticky notes on the edge of your screen for Windows and Android. Password-protected notes (AES-256-GCM), automatic backups and optional end-to-end encrypted sync. C# / .NET, Kotlin. GPL-3.0. |
+| **[MiPizarra](https://github.com/NachoPola16/mipizarra)** | A basketball coaching assistant that runs on a 100% local LLM: Ollama + RAG (ChromaDB) + a deterministic SVG diagram renderer. Python, FastAPI, Django, Docker. AGPL-3.0. |
+
+### What I work with
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-512BD4?logo=dotnet&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
 ![Proxmox](https://img.shields.io/badge/-Proxmox-E57000?logo=proxmox&logoColor=white)
+![Wazuh](https://img.shields.io/badge/-Wazuh-005571)
+![SNMP](https://img.shields.io/badge/-SNMP%20%2F%20LibreNMS-555555)
 
-Spanish and English. Issues and discussions on my repositories are welcome.
+Networking (TCP/IP, SNMP, monitoring), network security, local LLMs (Ollama, LoRA fine-tuning, RAG), and
+GitHub Actions for builds and releases.
+
+---
+
+## 🇪🇸 Sobre mí
+
+Estudio 4.º de Ingeniería de Tecnologías de Telecomunicación (mención en Telemática) en la Universidad de
+Zaragoza, con foco en redes y seguridad. Aprendo operando los sistemas: en casa tengo un servidor Proxmox con
+un SOC con Wazuh, monitorización de red por SNMP y varios servicios autoalojados. Fuera del teclado, entreno a
+equipos de baloncesto de formación, y de ahí salen casi todas mis ideas de proyecto.
+
+- **Aldune**: notas adhesivas en el borde de la pantalla para Windows y Android, con notas cifradas y sincronización opcional de extremo a extremo.
+- **MiPizarra**: asistente de entrenamiento de baloncesto con IA 100 % local (Ollama + RAG + diagramas SVG).
+
+Issues y discusiones en mis repositorios son bienvenidos, en español o en inglés.
