@@ -1,6 +1,6 @@
-<h1 align="center">Nacho Pola</h1>
+<p align="center"><img src="banner.svg" alt="Nacho Pola: a basketball half court drawn as a network diagram" width="100%"></p>
+
 <p align="center">
-  Telecommunications engineering student · networks & security · self-hosted everything · basketball coach<br>
   <a href="https://nacho.polacabezon.com">Portfolio</a> ·
   <a href="https://linkedin.com/in/nacho-pola-304686304">LinkedIn</a>
 </p>
@@ -13,6 +13,8 @@ a Proxmox server with a Wazuh SOC, SNMP network monitoring and a set of self-hos
 keyboard, I coach youth basketball teams, which is where most of my project ideas come from.
 
 ### Projects
+
+Both are open source and both started as tools I needed myself.
 
 | | |
 |---|---|

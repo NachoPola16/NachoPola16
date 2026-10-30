@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 220" role="img" aria-label="Nacho Pola: networks, security and a basketball court drawn as a network diagram">
+  <rect width="900" height="220" rx="14" fill="#15120e"/>
+  <!-- half court drawn as a network diagram -->
+  <g fill="none" stroke="#e8752c" stroke-width="2" opacity=".9">
+    <rect x="470" y="24" width="400" height="172" rx="4" stroke="#332c22" stroke-width="2"/>
+    <rect x="620" y="24" width="100" height="78" stroke="#332c22"/>
+    <path d="M520 196 V150 A100 100 0 0 1 820 150 V196" stroke="#332c22"/>
+    <circle cx="670" cy="102" r="32" stroke="#332c22"/>
+    <path d="M520 150 L620 102 M820 150 L720 102 M670 102 L670 60 M570 120 L670 102 M770 120 L670 102" stroke-dasharray="5 5"/>
+  </g>
+  <g fill="#15120e" stroke="#e8752c" stroke-width="2.5">
+    <circle cx="670" cy="60" r="9"/><circle cx="520" cy="150" r="9"/><circle cx="820" cy="150" r="9"/>
+    <circle cx="570" cy="120" r="9"/><circle cx="770" cy="120" r="9"/>
+  </g>
+  <circle cx="670" cy="102" r="7" fill="#e8752c"/>
+  <text x="48" y="96" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="46" font-weight="800" fill="#f2ede4">Nacho Pola</text>
+  <text x="48" y="132" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" fill="#d8d0c4">Networks · security · self-hosted · basketball</text>
+  <text x="48" y="162" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" fill="#9c9186">Telecom engineering, University of Zaragoza</text>
+</svg>
