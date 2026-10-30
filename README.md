@@ -1,4 +1,4 @@
-<p align="center"><img src="banner.svg" alt="Nacho Pola: a basketball half court drawn as a network diagram" width="100%"></p>
+<p align="center"><img src="banner.png" alt="Nacho Pola: networks, security, self-hosted" width="100%"></p>
 
 <p align="center">
   <a href="https://nacho.polacabezon.com">Portfolio</a> ·
