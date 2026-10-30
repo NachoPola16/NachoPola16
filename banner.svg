@@ -22,32 +22,31 @@
     <marker id="ar" markerUnits="userSpaceOnUse" markerWidth="14" markerHeight="14" refX="11" refY="7" orient="auto"><path d="M0 1.5 L13 7 L0 12.5 z" fill="#e8752c"/></marker>
   </defs>
   <g fill="none" stroke="#6b4c2c" stroke-width="2.5">
-    <rect x="850" y="98" width="260" height="272"/>
-    <rect x="930" y="98" width="100" height="112"/>
-    <path d="M944 210 A36 36 0 0 1 1016 210"/>
-    <path d="M944 210 A36 36 0 0 0 1016 210" stroke-dasharray="6 6"/>
-    <path d="M868 98 V128 A112 112 0 0 0 1092 128 V98"/>
-    <path d="M940 370 A40 40 0 0 1 1020 370"/>
-    <path d="M966 112 H994" stroke="#e8752c" stroke-width="3.5"/>
+    <rect x="850" y="112" width="260" height="243"/>
+    <rect x="930" y="112" width="100" height="100"/>
+    <path d="M949 212 A31 31 0 0 0 1011 212"/>
+    <path d="M949 212 A31 31 0 0 1 1011 212" stroke-dasharray="6 6"/>
+    <path d="M868 112 V142 A112 112 0 0 0 1092 142 V112"/>
+    <path d="M949 355 A31 31 0 0 1 1011 355"/>
+    <path d="M966 126 H994" stroke="#e8752c" stroke-width="3.5"/>
   </g>
-  <circle cx="980" cy="128" r="8" fill="none" stroke="#e8752c" stroke-width="3"/>
+  <circle cx="980" cy="142" r="8" fill="none" stroke="#e8752c" stroke-width="3"/>
   <g fill="none" stroke="#e8752c" stroke-width="2.8" stroke-linecap="round">
-    <path d="M969 289 L919 240" stroke-dasharray="8 7" marker-end="url(#ar)"/>
-    <path d="M980 283 L980 160" marker-end="url(#ar)"/>
-    <path d="M901.0 210.0 L902.3 208.4 L903.8 206.9 L904.8 205.2 L904.6 202.8 L903.7 200.2 L903.3 197.8 L904.8 196.2 L908.2 195.7 L911.9 195.3 L914.0 194.1 L913.7 191.7 L911.7 188.5 L909.8 185.3 L909.5 182.9 L911.8 181.9 L915.3 181.4 L918.1 180.5 L919.3 178.9 L919.2 176.6 L918.9 174.2 L919.3 172.2 L920.5 170.6" marker-end="url(#ar)"/>
-    <path d="M1049 238 L1004 291" marker-end="url(#ar)"/>
-    <path d="M875 147 L879 197" marker-end="url(#ar)"/>
-    <path d="M1085 147 L1081 197" marker-end="url(#ar)"/>
+    <path d="M965 272 L918 238" stroke-dasharray="8 7" marker-end="url(#ar)"/>
+    <path d="M980 262 L980 184" marker-end="url(#ar)"/>
+    <path d="M906.0 212.0 L907.4 210.5 L909.1 209.1 L910.1 207.4 L909.9 205.0 L908.9 202.2 L908.5 199.6 L910.0 198.2 L913.8 198.0 L917.5 197.8 L919.6 196.7 L919.5 194.3 L917.7 191.0 L915.8 187.7 L915.9 185.5 L918.3 184.5 L921.5 184.0 L923.9 183.1 L924.9 181.3 L925.1 179.1 L925.4 177.0" marker-end="url(#ar)"/>
+    <path d="M1045 240 L1004 268" marker-end="url(#ar)"/>
+    <path d="M1078 158 L1060 184" marker-end="url(#ar)"/>
   </g>
   <g fill="#15120e" stroke="#e8752c" stroke-width="3">
-    <circle cx="980" cy="300" r="15"/><circle cx="905" cy="225" r="15"/><circle cx="1055" cy="225" r="15"/>
-    <circle cx="875" cy="130" r="15"/><circle cx="1085" cy="130" r="15"/>
+    <circle cx="980" cy="282" r="15"/><circle cx="900" cy="228" r="15"/><circle cx="1060" cy="228" r="15"/>
+    <circle cx="875" cy="144" r="15"/><circle cx="1085" cy="144" r="15"/>
   </g>
   <g font-family="Consolas, Courier New, monospace" font-size="18" font-weight="700" fill="#e8752c" text-anchor="middle">
-    <text x="980" y="306">1</text><text x="905" y="231">2</text><text x="1055" y="231">3</text>
-    <text x="875" y="136">4</text><text x="1085" y="136">5</text>
+    <text x="980" y="288">1</text><text x="900" y="234">2</text><text x="1060" y="234">3</text>
+    <text x="875" y="150">4</text><text x="1085" y="150">5</text>
   </g>
-  <circle cx="954" cy="316" r="8" fill="#ffc78a" stroke="#3b2412" stroke-width="2"/>
-  <path d="M946 316 H962 M954 308 V324" stroke="#3b2412" stroke-width="1.4"/>
+  <circle cx="957" cy="296" r="8" fill="#ffc78a" stroke="#3b2412" stroke-width="2"/>
+  <path d="M949 296 H965 M957 288 V304" stroke="#3b2412" stroke-width="1.4"/>
   <rect x="40" y="30" width="1120" height="360" rx="10" fill="url(#scan)"/>
 </svg>
