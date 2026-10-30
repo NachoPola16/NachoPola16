@@ -18,51 +18,35 @@
     <text x="80" y="360" fill="#e8752c">aldune/   mipizarra/</text>
     <rect x="395" y="338" width="18" height="30" fill="#e8752c"/>
   </g>
+  <defs>
+    <marker id="ar" markerUnits="userSpaceOnUse" markerWidth="14" markerHeight="14" refX="11" refY="7" orient="auto"><path d="M0 1.5 L13 7 L0 12.5 z" fill="#e8752c"/></marker>
+  </defs>
+  <g fill="none" stroke="#6b4c2c" stroke-width="2.5">
+    <rect x="850" y="98" width="260" height="272"/>
+    <rect x="930" y="98" width="100" height="112"/>
+    <path d="M944 210 A36 36 0 0 1 1016 210"/>
+    <path d="M944 210 A36 36 0 0 0 1016 210" stroke-dasharray="6 6"/>
+    <path d="M868 98 V128 A112 112 0 0 0 1092 128 V98"/>
+    <path d="M966 112 H994" stroke="#e8752c" stroke-width="3.5"/>
+  </g>
+  <circle cx="980" cy="128" r="8" fill="none" stroke="#e8752c" stroke-width="3"/>
+  <g fill="none" stroke="#e8752c" stroke-width="3" stroke-linecap="round">
+    <path d="M966 316 L916 264" stroke-dasharray="8 7" marker-end="url(#ar)"/>
+    <path d="M992 310 C1036 278 1040 214 1008 164" marker-end="url(#ar)"/>
+    <path d="M900.0 232.0 L902.3 229.9 L904.6 227.9 L905.3 224.7 L904.9 220.7 L906.1 217.9 L910.5 217.4 L915.8 217.5 L917.5 215.1 L915.8 210.1 L914.0 205.1 L915.8 202.7 L921.0 202.8 L926.3 202.9 L928.0 200.4 L926.3 195.5 L925.7 191.3 L927.9 189.3 L931.6 188.2 L934.1 186.3 L935.3 183.5" marker-end="url(#ar)"/>
+    <path d="M1062 268 Q1042 312 1006 328" marker-end="url(#ar)"/>
+    <path d="M872 140 L886 196" marker-end="url(#ar)"/>
+    <path d="M1090 140 L1076 196" marker-end="url(#ar)"/>
+  </g>
+  <g fill="#15120e" stroke="#e8752c" stroke-width="3">
+    <circle cx="980" cy="330" r="15"/><circle cx="900" cy="250" r="15"/><circle cx="1072" cy="266" r="15"/>
+    <circle cx="872" cy="124" r="15"/><circle cx="1090" cy="124" r="15"/>
+  </g>
+  <g font-family="Consolas, Courier New, monospace" font-size="18" font-weight="700" fill="#e8752c" text-anchor="middle">
+    <text x="980" y="336">1</text><text x="900" y="256">2</text><text x="1072" y="272">3</text>
+    <text x="872" y="130">4</text><text x="1090" y="130">5</text>
+  </g>
+  <circle cx="1000" cy="348" r="9" fill="#ffc78a" stroke="#3b2412" stroke-width="2"/>
+  <path d="M991 348 H1009 M1000 339 V357" stroke="#3b2412" stroke-width="1.5"/>
   <rect x="40" y="30" width="1120" height="360" rx="10" fill="url(#scan)"/>
-  <rect x="808" y="88" width="334" height="286" rx="6" fill="#ffffff" stroke="#e8752c" stroke-width="3"/>
-  <svg x="812" y="92" width="326" height="278" viewBox="0 150 735 540" preserveAspectRatio="xMidYMid meet">
-
-<defs>
-<marker id="arr"  markerWidth="8" markerHeight="8" refX="5.5" refY="3" orient="auto">
-  <path d="M0,0 L0,6 L7,3 z" fill="#1b1b1f"/></marker>
-<marker id="arrs" markerWidth="8" markerHeight="8" refX="5.5" refY="3" orient="auto">
-  <path d="M0,0 L0,6 L7,3 z" fill="#1b1b1f"/></marker>
-</defs>
-<rect width="735" height="690" fill="#ffffff"/>
-<rect x="30" y="30" width="675" height="630" fill="none" stroke="#666666" stroke-width="3.5"/>
-<path d="M 286.5,30 A 81.0,81.0 0 0 0 448.5,30" fill="none" stroke="#666666" stroke-width="2.5"/>
-<rect x="257.2" y="399.0" width="220.5" height="261.0" fill="none" stroke="#666666" stroke-width="2.5"/>
-<line x1="257.2" y1="399.0" x2="477.8" y2="399.0" stroke="#666666" stroke-width="2.5"/>
-<path d="M 257.2,399.0 A 81.0,81.0 0 0 0 477.8,399.0" fill="none" stroke="#666666" stroke-width="2.5"/>
-<path d="M 257.2,399.0 A 81.0,81.0 0 0 1 477.8,399.0" fill="none" stroke="#666666" stroke-width="2" stroke-dasharray="6,4"/>
-<rect x="327.5" y="654.0" width="80" height="6.0" fill="#1b1b1f"/>
-<circle cx="367.5" cy="589.1" r="13" fill="none" stroke="#e53e3e" stroke-width="3.5"/>
-<rect x="252.2" y="609.8" width="5" height="24" fill="#666666"/>
-<rect x="477.8" y="609.8" width="5" height="24" fill="#666666"/>
-<rect x="252.2" y="571.5" width="5" height="24" fill="#666666"/>
-<rect x="477.8" y="571.5" width="5" height="24" fill="#666666"/>
-<rect x="252.2" y="533.2" width="5" height="24" fill="#666666"/>
-<rect x="477.8" y="533.2" width="5" height="24" fill="#666666"/>
-<path d="M 70.5,525.4 A 303.8,303.8 0 0 1 664.5,525.4" fill="none" stroke="#666666" stroke-width="2.5"/>
-<line x1="70.5" y1="525.4" x2="70.5" y2="660.0" stroke="#666666" stroke-width="2.5"/>
-<line x1="664.5" y1="525.4" x2="664.5" y2="660.0" stroke="#666666" stroke-width="2.5"/>
-<circle cx="367.5" cy="231.6" r="22" fill="#e8752c" stroke="#15120e" stroke-width="2"/>
-<text x="367.5" y="238.6" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="19" font-weight="bold" fill="#15120e">1</text>
-<circle cx="597.0" cy="345.0" r="22" fill="#e8752c" stroke="#15120e" stroke-width="2"/>
-<text x="597.0" y="352.0" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="19" font-weight="bold" fill="#15120e">2</text>
-<circle cx="111.0" cy="345.0" r="22" fill="#e8752c" stroke="#15120e" stroke-width="2"/>
-<text x="111.0" y="352.0" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="19" font-weight="bold" fill="#15120e">3</text>
-<circle cx="84.0" cy="534.0" r="22" fill="#e8752c" stroke="#15120e" stroke-width="2"/>
-<text x="84.0" y="541.0" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="19" font-weight="bold" fill="#15120e">4</text>
-<circle cx="651.0" cy="534.0" r="22" fill="#e8752c" stroke="#15120e" stroke-width="2"/>
-<text x="651.0" y="541.0" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="19" font-weight="bold" fill="#15120e">5</text>
-<circle cx="395.5" cy="203.6" r="13" fill="#ffd9a8" stroke="#1b1b1f" stroke-width="2"/>
-<path d="M382.5 203.6 H408.5 M395.5 190.6 V216.6 M386.3 194.4 Q391.2 203.6 386.3 212.8 M404.7 194.4 Q399.8 203.6 404.7 212.8" stroke="#1b1b1f" stroke-width="1.3" fill="none" stroke-linecap="round"/>
-<line x1="367.5" y1="231.6" x2="573.7" y2="333.5" stroke="#1b1b1f" stroke-width="3" stroke-dasharray="9,7" marker-end="url(#arr)"/>
-<path d="M 367.5,231.6 Q 288.5,338.9 306.4,471.0" fill="none" stroke="#1b1b1f" stroke-width="3" marker-end="url(#arr)"/>
-<path d="M 572.6,358.7 Q 563.7,355.6 561.6,364.8 Q 559.5,374.0 550.6,371.0 Q 541.7,368.0 539.6,377.1 Q 537.5,386.3 528.6,383.3 Q 519.7,380.3 517.6,389.4 Q 515.6,398.6 506.7,395.6 Q 497.7,392.6 495.7,401.7 Q 490.2,404.8 484.7,407.9" fill="none" stroke="#ffffff" stroke-width="8" opacity="0.9" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M 572.6,358.7 Q 563.7,355.6 561.6,364.8 Q 559.5,374.0 550.6,371.0 Q 541.7,368.0 539.6,377.1 Q 537.5,386.3 528.6,383.3 Q 519.7,380.3 517.6,389.4 Q 515.6,398.6 506.7,395.6 Q 497.7,392.6 495.7,401.7 Q 490.2,404.8 484.7,407.9" fill="none" stroke="#1b1b1f" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
-<path class="punta" d="M480.8,410.1 L494.7,392.0 L503.5,407.7 Z" fill="#1b1b1f"/>
-<text x="721" y="680" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#1b1b1f" opacity="0.55">MiPizarra · Nacho Pola</text>
-  </svg>
 </svg>
