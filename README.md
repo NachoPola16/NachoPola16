@@ -1,4 +1,4 @@
-<p align="center"><img src="banner-retro.png" alt="Terminal window: whoami → Nacho Pola; networks, security, self-hosted, basketball; projects: aldune, mipizarra" width="100%"></p>
+<p align="center"><img src="banner-retro-v2.png" alt="Terminal window: whoami → Nacho Pola; networks, security, self-hosted, basketball; projects: aldune, mipizarra. Beside it, a tactical half-court diagram drawn by the MiPizarra renderer" width="100%"></p>
 
 <p align="center">
   <a href="https://nacho.polacabezon.com">Portfolio</a> ·
