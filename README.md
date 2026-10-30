@@ -1,18 +1,18 @@
-<p align="center"><img src="banner.png" alt="Nacho Pola: networks, security, self-hosted" width="100%"></p>
+<p align="center"><img src="banner-retro.png" alt="Terminal window: whoami → Nacho Pola; networks, security, self-hosted, basketball; projects: aldune, mipizarra" width="100%"></p>
 
 <p align="center">
   <a href="https://nacho.polacabezon.com">Portfolio</a> ·
   <a href="https://linkedin.com/in/nacho-pola-304686304">LinkedIn</a>
 </p>
 
-## 🇬🇧 About me
+## 🇬🇧 `$ cat about.txt`
 
 I'm in my 4th year of the Telecommunications Engineering degree (Telematics) at the University of Zaragoza
 (EINA), focused on networking and security. I like understanding systems by running them: at home I operate
 a Proxmox server with a Wazuh SOC, SNMP network monitoring and a set of self-hosted services. Off the
 keyboard, I coach youth basketball teams, which is where most of my project ideas come from.
 
-### Projects
+### `$ ls projects/`
 
 Both are open source and both started as tools I needed myself.
 
@@ -21,7 +21,7 @@ Both are open source and both started as tools I needed myself.
 | **[Aldune](https://github.com/NachoPola16/aldune)** | Sticky notes on the edge of your screen for Windows and Android. Password-protected notes (AES-256-GCM), automatic backups and optional end-to-end encrypted sync. C# / .NET, Kotlin. GPL-3.0. |
 | **[MiPizarra](https://github.com/NachoPola16/mipizarra)** | A basketball coaching assistant that runs on a 100% local LLM: Ollama + RAG (ChromaDB) + a deterministic SVG diagram renderer. Python, FastAPI, Django, Docker. AGPL-3.0. |
 
-### What I work with
+### `$ cat stack.txt`
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-512BD4?logo=dotnet&logoColor=white)
@@ -39,7 +39,7 @@ GitHub Actions for builds and releases.
 
 ---
 
-## 🇪🇸 Sobre mí
+## 🇪🇸 `$ cat sobre-mi.txt`
 
 Estudio 4.º de Ingeniería de Tecnologías de Telecomunicación (mención en Telemática) en la Universidad de
 Zaragoza, con foco en redes y seguridad. Aprendo operando los sistemas: en casa tengo un servidor Proxmox con
