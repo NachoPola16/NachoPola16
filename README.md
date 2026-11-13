@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/banner.png" alt="Terminal window: whoami → Nacho Pola; networks, security, self-hosted, basketball; projects: aldune, mipizarra. Beside it, an animated half-court play that ends in a three-pointer" width="100%"></p>
+<p align="center"><img src="assets/banner.png" alt="Terminal window: whoami → Nacho Pola; networks, security, self-hosted, basketball; projects: aldune, mipizarra, notary, pingpoint-noc. Beside it, an animated half-court play that ends in a three-pointer" width="100%"></p>
 
 <p align="center">
   <a href="https://nacho.polacabezon.com">Portfolio</a> ·
@@ -14,7 +14,7 @@ keyboard, I coach youth basketball teams, which is where most of my project idea
 
 ### `$ ls projects/`
 
-All open source, and all started as tools I needed myself. The last two live in organizations I run with a university friend, so they do not appear in my Repositories tab.
+All open source, and all started as tools I needed myself.
 
 - **[Aldune](https://github.com/NachoPola16/aldune)**: sticky notes on the edge of your screen for Windows and Android.
   Password-protected notes (AES-256-GCM), automatic backups and optional end-to-end encrypted sync.
@@ -53,7 +53,5 @@ equipos de baloncesto de formación, y de ahí salen casi todas mis ideas de pro
 - **[MiPizarra](https://github.com/NachoPola16/mipizarra)**: asistente de entrenamiento de baloncesto con IA 100 % local (Ollama + RAG + diagramas SVG).
 - **[notary](https://github.com/notary-dev/notary)**: herramienta de línea de comandos que lee el DNIe, firma documentos con CAdES-T y sellos de tiempo RFC 3161, y los verifica. Python. MIT.
 - **[PingPoint NOC](https://github.com/pingpoint-noc/pingpoint-noc)**: centro de operaciones de red autoalojado: recoge SNMP, syslog e IPFIX, alerta y tiene panel web. Python. MIT.
-
-notary y PingPoint NOC están en organizaciones que llevo con un compañero de la carrera, por eso no salen en mi pestaña de repositorios.
 
 Issues y discusiones en mis repositorios son bienvenidos, en español o en inglés.
