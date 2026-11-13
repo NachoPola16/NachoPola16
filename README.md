@@ -14,13 +14,15 @@ keyboard, I coach youth basketball teams, which is where most of my project idea
 
 ### `$ ls projects/`
 
-Both are open source and both started as tools I needed myself.
+All open source, and all started as tools I needed myself. The last two live in organizations I run with a university friend, so they do not appear in my Repositories tab.
 
 - **[Aldune](https://github.com/NachoPola16/aldune)**: sticky notes on the edge of your screen for Windows and Android.
   Password-protected notes (AES-256-GCM), automatic backups and optional end-to-end encrypted sync.
   C# / .NET, Kotlin. GPL-3.0.
 - **[MiPizarra](https://github.com/NachoPola16/mipizarra)**: a basketball coaching assistant that runs on a 100% local LLM:
   Ollama + RAG (ChromaDB) + a deterministic SVG diagram renderer. Python, FastAPI, Django, Docker. AGPL-3.0.
+- **[notary](https://github.com/notary-dev/notary)**: command-line tool that inspects the Spanish eID (DNIe), signs documents with CAdES-T signatures and RFC 3161 timestamps, and verifies them. Python. MIT.
+- **[PingPoint NOC](https://github.com/pingpoint-noc/pingpoint-noc)**: self-hosted network operations centre: SNMP, syslog and IPFIX collection, alerting and a web dashboard. Python. MIT.
 
 ### `$ cat stack.txt`
 
@@ -49,5 +51,9 @@ equipos de baloncesto de formación, y de ahí salen casi todas mis ideas de pro
 
 - **[Aldune](https://github.com/NachoPola16/aldune)**: notas adhesivas en el borde de la pantalla para Windows y Android, con notas cifradas y sincronización opcional de extremo a extremo.
 - **[MiPizarra](https://github.com/NachoPola16/mipizarra)**: asistente de entrenamiento de baloncesto con IA 100 % local (Ollama + RAG + diagramas SVG).
+- **[notary](https://github.com/notary-dev/notary)**: herramienta de línea de comandos que lee el DNIe, firma documentos con CAdES-T y sellos de tiempo RFC 3161, y los verifica. Python. MIT.
+- **[PingPoint NOC](https://github.com/pingpoint-noc/pingpoint-noc)**: centro de operaciones de red autoalojado: recoge SNMP, syslog e IPFIX, alerta y tiene panel web. Python. MIT.
+
+notary y PingPoint NOC están en organizaciones que llevo con un compañero de la carrera, por eso no salen en mi pestaña de repositorios.
 
 Issues y discusiones en mis repositorios son bienvenidos, en español o en inglés.
